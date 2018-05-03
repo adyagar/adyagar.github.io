@@ -1,1 +1,1 @@
-# adyagar.github.io
+If you have an application you are interested in developing with web technology, I’d love to work with you on it. I’m a front-end developer which means I can make your project look the way you want. I work primarily with HTML, CSS and JavaScript and use the BootStrap framework. I'm a fast learner and picking up new languages or frameworks isn’t a problem.
